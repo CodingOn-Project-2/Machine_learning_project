@@ -126,6 +126,8 @@ food-intake-tracker/
 └── data/                         # 음식 데이터 파일
     └── food_data.json            # 음식 칼로리 및 영양 정보
 
+---
+
 ## 역할 분담
 - [김소은](https://github.com/soeun1030) : -----
 - [김성규](https://github.com/Seonggyu-art) : -----
