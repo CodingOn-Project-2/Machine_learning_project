@@ -51,7 +51,6 @@ _음식 인식 및 칼로리 계산의 예시 화면_
 
 ## 🔗 링크
 
-- [GitHub Repository](https://github.com/username/food-intake-tracker)
 - [YOLOv5](https://github.com/ultralytics/yolov5)
 - [USDA Food Database](https://fdc.nal.usda.gov/)
 
@@ -67,7 +66,7 @@ _음식 인식 및 칼로리 계산의 예시 화면_
 
 ### 컨트리뷰팅 절차
 
-1. **이슈 리포팅**: 발견한 버그나 개선 사항을 [이슈](https://github.com/----/food-intake-tracker/issues)로 등록해 주세요.
+1. **이슈 리포팅**: 발견한 버그나 개선 사항을 [이슈](https://github.com/----/----/issues)로 등록해 주세요.
 2. **새로운 기능 추가**: 새로운 기능을 추가할 때는 각 기능에 대한 문서도 함께 작성해 주세요.
 3. **코드 스타일**: 코딩 스타일 가이드에 맞춰 작성해 주세요. Python PEP 8 스타일을 따르세요.
 4. **테스트 작성**: 기능을 추가한 후에는 반드시 해당 기능에 대한 테스트 코드를 작성해 주세요.
