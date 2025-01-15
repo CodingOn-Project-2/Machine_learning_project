@@ -7,7 +7,7 @@
 
 > **목표**: 음식 섭취를 추적하고 실시간으로 칼로리 정보를 제공하여 사용자가 자신의 식습관을 개선할 수 있도록 돕습니다.
 
-## 주요 기능
+## ⚡ 주요 기능
 
 ### 🍔 **음식 인식**
 - 실시간 카메라 영상을 통해 음식 객체를 인식합니다.
@@ -25,6 +25,10 @@
 - 예: "Apple detected! 95 calories" 또는 "Total Calories: 285 calories".
 
 ## 💻 시스템 요구 사항
+
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-v1.8-red)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-v5.0-green)
 
 - Python 3.x 이상
 - OpenCV
@@ -85,6 +89,15 @@ A: `plyer` 라이브러리가 알림을 정상적으로 표시할 수 있도록 
 
 ---
 
+## 🍽️ 음식 데이터베이스 비교
+
+| 데이터베이스 | 출처                    | 제공하는 정보        |
+|--------------|-------------------------|----------------------|
+| USDA         | [USDA Food Database](https://fdc.nal.usda.gov/) | 음식 칼로리, 영양 성분 |
+| Open Food Facts | [Open Food Facts API](https://world.openfoodfacts.org/) | 칼로리, 성분, 라벨 정보 |
+
+---
+
 ## 📝 Contributing
 
 이 프로젝트에 기여하고 싶다면 다음 절차를 따르세요:
@@ -130,8 +143,20 @@ food-intake-tracker/
 ---
 
 ## 역할 분담
-- [김소은](https://github.com/soeun1030) : -----
-- [김성규](https://github.com/Seonggyu-art) : -----
-- [김사무엘](https://github.com/koi154) : -----
-- [송창우](https://github.com/songsungsang) : -----
-- [조재원](https://github.com/jjw9728) : -----
+
+- 🍏 [김소은](https://github.com/soeun1030) : -----
+- 🍎 [김성규](https://github.com/Seonggyu-art) : -----
+- 🍊 [김사무엘](https://github.com/koi154) : -----
+- 🍉 [송창우](https://github.com/songsungsang) : -----
+- 🍓 [조재원](https://github.com/jjw9728) : -----
+
+---
+
+## 🔗 기여자 링크
+
+- 🔗 [김소은 GitHub](https://github.com/soeun1030)
+- 🔗 [김성규 GitHub](https://github.com/Seonggyu-art)
+- 🔗 [김사무엘 GitHub](https://github.com/koi154)
+- 🔗 [송창우 GitHub](https://github.com/songsungsang)
+- 🔗 [조재원 GitHub](https://github.com/jjw9728)
+
