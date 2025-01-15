@@ -125,6 +125,7 @@ food-intake-tracker/
 │   └── yolov5s.pt                # YOLOv5 사전 학습된 모델
 └── data/                         # 음식 데이터 파일
     └── food_data.json            # 음식 칼로리 및 영양 정보
+```
 
 ---
 
